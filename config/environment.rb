@@ -1,3 +1,4 @@
+require 'bundler'
 require 'sqlite3'
 Bundler.require
 
